@@ -1,3 +1,4 @@
+```
 {
   "name": "ReduxEx",
   "version": "0.0.1",
@@ -51,3 +52,4 @@
     "preset": "react-native"
   }
 }
+```
